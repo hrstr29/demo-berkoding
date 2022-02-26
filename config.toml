@@ -1,0 +1,8 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Dunia Perkodingan'
+theme = 'berkoding'
+summaryLength = 20
+paginate = 2
+[params]
+    Description = 'Menapaki jejak koder'
