@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://nervous-feynman-a3a68c.netlify.app'
 languageCode = 'en-us'
 title = 'Dunia Perkodingan'
 theme = 'berkoding'
